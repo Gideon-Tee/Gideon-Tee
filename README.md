@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gideon-Tee
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning android app development
+- 🌱 I’m currently work on android app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: gideonlambride@gmail.com 
 
