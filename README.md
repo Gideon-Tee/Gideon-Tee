@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gideon-Tee
-- 👀 I’m interested in software development
-- 🌱 I’m currently work on android app development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m currently a software engineering student at ALX and a CS student at KNUST
+- 💞️ I do anything android and or web
 - 📫 How to reach me email: gideonlambride@gmail.com 
 
 <!---
