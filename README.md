@@ -7,7 +7,8 @@
 - I play video games and treat myself a good sleep when I take time off my desk.
 - Now, to business:
 - I develop android applications with Kotlin, Jetpack Compose
-- I employ html, css, javascript, python-django, sql, Express Js in web development 
+- I employ html, css, javascript, python-django, sql, Express Js in web development
+- I want to be a full stack software engineer ranging from web and mobile applications to content management systems and databases and operating systems.
 - I’m currently a software engineering student at ALX and a Computer science student at KNUST
 
 - You probably may be having a long busy day... I have a little joke for you; smile to release some stress --
