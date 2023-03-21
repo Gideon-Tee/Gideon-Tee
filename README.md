@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gideon-Tee
+- 👋 Hi, I’m Gideon Tettehfio.
 - Well, from a distance, you may call me unsociable, nerdy and even maybe unfriendly. But -
 - Hold on a second, before you say that, why don't you get a little closer
 - You'll realise how fun and welcoming I actually am😊.
