@@ -1,16 +1,18 @@
 - 👋 Hi, I’m @Gideon-Tee
-- Well, you might want to call me a an aloof, you may be right - but nope, you wrong.
-- Once I get closer you'll realise how much fun and welcoming i can be😊.
-- I love to code and i spend most of my time doing just that. 
-- When I'm not coding, well, it's either I'm eating or playing video games
-- Enough with the pep talk. let's get to business; hold up, before we get serious you may wanna hear a little joke -
-- when you bend your ear closer to the Unix shell, you hear the C🤣
-
--okay now... serious...
-- 👀 I’m currently a software engineering student at ALX and a Computer science student at KNUST
-- 💞️ I develop android applications with Kotlin, Jetpack Compose
+- Well, from a distance, you may call me unsociable, nerdy and even maybe unfriendly. But -
+- Hold on a second, before you say that, why don't you get a little closer
+- You'll realise how fun and welcoming I actually am😊.
+- I love to code and I spend most of my time doing just that.
+- You know that feeling when you finally get that piece to work after a thousand shouts at the monitor, I love that feeling.
+- I play video games and treat myself a good sleep when I take time off my desk.
+- Now, to business:
+- I develop android applications with Kotlin, Jetpack Compose
 - I employ html, css, javascript, python-django, sql, Express Js in web development 
+- I’m currently a software engineering student at ALX and a Computer science student at KNUST
 
+- You probably may be having a long busy day... I have a little joke for you; smile to release some stress --
+- ``when you bend your ear closer to the Unix shell, you hear the C 🤣`` --cliche, I know.
+- 
 - 📫 How to reach me email: gideonlambride@gmail.com 
 
 <!---
