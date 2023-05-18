@@ -5,7 +5,7 @@
 - I want to work as a full stack software engineer ranging from web and mobile applications to content management systems and databases.
 - You probably may be having a long busy day... I have a little joke for you; smile to release some stress: ``when you bend your ear closer to the Unix shell, you hear the C 🤣``
 - You want to collaborate on a project or needs a partner to start something with, don't hesitate to contact me.
-- Here's my contact card https://gideon-profile-page.carrd.co
+- Here's my (contact card)[https://gideon-profile-page.carrd.co]
 - 📫 How to reach me email: gideonlambride@gmail.com 
 
 <!---
