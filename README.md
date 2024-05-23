@@ -1,5 +1,5 @@
 - 👋 Hi
-- - I am a Django developer
+- I am a Django developer
 
 - I love to code and I spend most of my time doing that.
 
