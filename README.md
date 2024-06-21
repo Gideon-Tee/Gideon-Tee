@@ -1,12 +1,16 @@
 - 👋 
-- I am a Django backend developer
+### I do
+- Backend development with Django
+- Custom REST API development and integration
+- Automation of routine IT tasks with Python scripts
 
-- I love to code and I spend most of my time doing that.
 
 - 
 - [Personal website](https://gideon-tee.github.io/portfolio/)
 - 
-- 📫 E-mail: gideonlambride@gmail.com 
+- 📫 E-mail: gideonlambride@gmail.com
+
+- `programming is not about writing code, it's about solving problems`
 
 <!---
 Gideon-Tee/Gideon-Tee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
