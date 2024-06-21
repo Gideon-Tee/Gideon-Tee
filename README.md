@@ -1,10 +1,11 @@
-- 👋 Hi
-- I am a Django developer
+- 👋 
+- I am a Django backend developer
 
 - I love to code and I spend most of my time doing that.
 
 - 
-- [Contact card](https://gideon-profile-page.carrd.co)
+- [Personal website](https://gideon-tee.github.io/portfolio/)
+- 
 - 📫 E-mail: gideonlambride@gmail.com 
 
 <!---
