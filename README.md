@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gideon Mawulede Tettehfio</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS Certified | Kubernetes | Automation Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Gideon M. Tettehfio</h1>
+<h3 align="center">Cloud & DevOps Engineer | AWS Certified Solutions Architect | Kubernetes | Backend </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -25,12 +25,12 @@
 ### 🏆 Certifications
 | Certification | Badge |
 |--------------|-------|
-| **AWS Certified Solutions Architect – Associate** | ![AWS SAA](https://github.com/Gideon-Tee/Gideon-Tee/blob/main/certs/saa.png) |
-| **Kubernetes Cloud Native Associate (KCNA)** | ![KCNA](https://github.com/Gideon-Tee/Gideon-Tee/blob/main/certs/kcna-badge.png) |
-| **AWS Certified Cloud Practitioner** | ![CCP](https://github.com/Gideon-Tee/Gideon-Tee/blob/main/certs/aws-ccp.png) |
+| **AWS Certified Solutions Architect – Associate** | ![AWS SAA](https://github.com/Gideon-Tee/Gideon-Tee/blob/main/certs/saa.jpg) |
+| **Kubernetes Cloud Native Associate (KCNA)** | ![KCNA](https://github.com/Gideon-Tee/Gideon-Tee/blob/main/certs/kcna-certificate.png) |
+| **AWS Certified Cloud Practitioner** | ![CCP](https://github.com/Gideon-Tee/Gideon-Tee/blob/main/certs/aws-certified-cloud-practitioner.png) |
 | **Docker (Kodekloud)** | ![Docker](https://github.com/Gideon-Tee/Gideon-Tee/blob/main/certs/docker-kodekloud.png) |
 
-> 💡 *Pro tip: Keep this section updated with your top 4–5 certs. Others can be listed in your portfolio or resume.*
+>
 
 <br/>
 
@@ -39,22 +39,6 @@
   <img src="https://skillicons.dev/icons?i=aws,terraform,k8s,docker,nginx,ubuntu,git,jenkins,py,js,bash,redis,postgresql" />
 </p>
 
-<br/>
-
-### 📊 GitHub Stats (Dark/Light Compatible)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Tee&show_icons=true&theme=dark&hide_border=false" 
-       onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=Gideon-Tee&show_icons=true&theme=light&hide_border=false'" 
-       alt="Gideon's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Tee&layout=compact&theme=dark&hide_border=false" 
-       onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Tee&layout=compact&theme=light&hide_border=false'" 
-       alt="Top Languages" />
-</p>
-
-<br/>
 
 ### 📦 Projects & Learning
 - 🌐 Building **cloud-native microservices** on **EKS + Helm + Terraform**
