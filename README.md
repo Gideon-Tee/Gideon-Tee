@@ -27,7 +27,6 @@
 |--------------|-------|
 | **AWS Certified Solutions Architect – Associate** | ![AWS SAA](https://github.com/Gideon-Tee/Gideon-Tee/blob/main/certs/saa.jpg) |
 | **Kubernetes Cloud Native Associate (KCNA)** | ![KCNA](https://github.com/Gideon-Tee/Gideon-Tee/blob/main/certs/kcna-certificate.png) |
-| **AWS Certified Cloud Practitioner** | ![CCP](https://github.com/Gideon-Tee/Gideon-Tee/blob/main/certs/aws-certified-cloud-practitioner.png) |
 | **Docker (Kodekloud)** | ![Docker](https://github.com/Gideon-Tee/Gideon-Tee/blob/main/certs/docker-kodekloud.png) |
 
 >
